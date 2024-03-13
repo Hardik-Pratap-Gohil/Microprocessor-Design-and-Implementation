@@ -1,0 +1,24 @@
+
+State Machine - |IITB_CPU|nx_st
+Name nx_st.s21 nx_st.s19 nx_st.s18 nx_st.s17 nx_st.s14 nx_st.s4 nx_st.s3 nx_st.s2 nx_st.s1 
+nx_st.s1 0 0 0 0 0 0 0 0 0 
+nx_st.s2 0 0 0 0 0 0 0 1 1 
+nx_st.s3 0 0 0 0 0 0 1 0 1 
+nx_st.s4 0 0 0 0 0 1 0 0 1 
+nx_st.s14 0 0 0 0 1 0 0 0 1 
+nx_st.s17 0 0 0 1 0 0 0 0 1 
+nx_st.s18 0 0 1 0 0 0 0 0 1 
+nx_st.s19 0 1 0 0 0 0 0 0 1 
+nx_st.s21 1 0 0 0 0 0 0 0 1 
+
+State Machine - |IITB_CPU|curr_st
+Name curr_st.s21 curr_st.s19 curr_st.s18 curr_st.s17 curr_st.s14 curr_st.s4 curr_st.s3 curr_st.s2 curr_st.s1 
+curr_st.s1 0 0 0 0 0 0 0 0 0 
+curr_st.s2 0 0 0 0 0 0 0 1 1 
+curr_st.s3 0 0 0 0 0 0 1 0 1 
+curr_st.s4 0 0 0 0 0 1 0 0 1 
+curr_st.s14 0 0 0 0 1 0 0 0 1 
+curr_st.s17 0 0 0 1 0 0 0 0 1 
+curr_st.s18 0 0 1 0 0 0 0 0 1 
+curr_st.s19 0 1 0 0 0 0 0 0 1 
+curr_st.s21 1 0 0 0 0 0 0 0 1 
